@@ -17,9 +17,3 @@ console.log(a, typeof a);
 
 a = 'Kodnest';
 console.log(a, typeof a);
-
-function sum(num1, num2) {
-    return num1 + num2;
-}
-let result=sum(100, 200);
-console.log(result);
