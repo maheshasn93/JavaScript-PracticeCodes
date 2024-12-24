@@ -17,3 +17,10 @@ console.log(a, typeof a);
 
 a = 'Kodnest';
 console.log(a, typeof a);
+
+let b;
+console.log(b);
+
+let c=null;
+console.log(c);
+
