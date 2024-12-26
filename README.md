@@ -1,6 +1,6 @@
 ##  **Day-wise Practice Codes Repository**
 
-Welcome to the **Nov-Batch-Daily-Scripts** repository!  Here, you will find all the practice codes we work on daily during our learning journey. This repository is a one-stop solution to revisit and practice the concepts we've covered.
+Welcome to the JavaSCript Learners....  Here, you will find all the practice codes we work on daily during our learning journey. This repository is a one-stop solution to revisit and practice the concepts we've covered.
 ---
 
 ### ** Repository Structure**
