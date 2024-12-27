@@ -4,7 +4,6 @@ Welcome to the JavaSCript Learners....  Here, you will find all the practice cod
 ---
 
 ### ** Repository Structure**
-- **Day-wise Folders**: Each day's learning material is organized into separate folders for easy navigation.  
 - **Code Examples**: Practical examples discussed during the session.  
 - **Practice Problems**: Challenges to enhance your understanding.  
 ---
@@ -18,8 +17,6 @@ Feel free to contribute by:
 
 3. Suggesting improvements to the code or documentation.
 
-### ** Latest Update: 26th December**
-
 **Topic:** Objects in JavaScript  
 
 We're diving deep into JavaScript objects!   
@@ -28,6 +25,7 @@ This section includes code snippets, examples, and practice problems that demons
 - Object creation  
 - Accessing and modifying properties  
 - Object methods  
-- Iterating over objects  
+- Iterating over objects
+- Array methods
 ---
 Happy Coding! 
