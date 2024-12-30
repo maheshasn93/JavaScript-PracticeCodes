@@ -26,4 +26,8 @@ console.log("sqr of numbers: ",sqr_arr);
 
 var arr4 = [1,2,3,4,5,6];
 var sum = arr4.reduce((ace, ele) => ace +ele, 0);
+var product = arr4.reduce((ace,ele) => ace * ele, 1);
+
+
 console.log('Sum of array: ',sum);
+console.log('Product of numbers',product);
