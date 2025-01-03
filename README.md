@@ -27,5 +27,7 @@ This section includes code snippets, examples, and practice problems that demons
 - Object methods  
 - Iterating over objects
 - Array methods
+- Function Overloading
+- Spead Operator 
 ---
 Happy Coding! 
