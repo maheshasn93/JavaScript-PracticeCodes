@@ -20,3 +20,8 @@ mul(10, 20);
 const msg = () => "Hello World";
 let res = msg();
 console.log(res);
+
+function greet(){
+    console.log("Hello");
+}
+console.log(greet)

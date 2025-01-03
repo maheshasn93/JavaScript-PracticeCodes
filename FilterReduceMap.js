@@ -31,3 +31,5 @@ var product = arr4.reduce((ace,ele) => ace * ele, 1);
 
 console.log('Sum of array: ',sum);
 console.log('Product of numbers',product);
+
+var foreach = arr4.forEach((ele,inx, arr4) => console.log(ele,inx,arr4));
